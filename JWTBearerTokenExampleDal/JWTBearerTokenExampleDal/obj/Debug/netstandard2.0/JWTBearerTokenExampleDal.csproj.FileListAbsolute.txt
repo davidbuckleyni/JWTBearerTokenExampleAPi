@@ -1,0 +1,5 @@
+D:\GitMaster\JWTBearerTokenExampleAPi\JWTBearerTokenExampleDal\JWTBearerTokenExampleDal\bin\Debug\netstandard2.0\JWTBearerTokenExampleDal.deps.json
+D:\GitMaster\JWTBearerTokenExampleAPi\JWTBearerTokenExampleDal\JWTBearerTokenExampleDal\bin\Debug\netstandard2.0\JWTBearerTokenExampleDal.dll
+D:\GitMaster\JWTBearerTokenExampleAPi\JWTBearerTokenExampleDal\JWTBearerTokenExampleDal\obj\Debug\netstandard2.0\JWTBearerTokenExampleDal.csprojAssemblyReference.cache
+D:\GitMaster\JWTBearerTokenExampleAPi\JWTBearerTokenExampleDal\JWTBearerTokenExampleDal\obj\Debug\netstandard2.0\JWTBearerTokenExampleDal.AssemblyInfoInputs.cache
+D:\GitMaster\JWTBearerTokenExampleAPi\JWTBearerTokenExampleDal\JWTBearerTokenExampleDal\obj\Debug\netstandard2.0\JWTBearerTokenExampleDal.AssemblyInfo.cs
