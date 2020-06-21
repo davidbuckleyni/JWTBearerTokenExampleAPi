@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTBearerTokenExampleAPi", "JWTBearerTokenExampleAPi\JWTBearerTokenExampleAPi.csproj", "{AC0C07CE-E096-4F49-B17F-993955EDFCE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTBearerTokenExampleAPi", "JWTBearerTokenExampleAPi\JWTBearerTokenExampleAPi.csproj", "{AC0C07CE-E096-4F49-B17F-993955EDFCE6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTBearerTokenExampleDal", "JWTBearerTokenExampleDal\JWTBearerTokenExampleDal\JWTBearerTokenExampleDal.csproj", "{A4181AB7-CD89-470D-925D-D0E322D48A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTBearerTokenExample.Models", "..\JWTBearerTokenExampleModels\JWTBearerTokenExample.Models\JWTBearerTokenExample.Models.csproj", "{518D2BEC-0B47-4FDC-BD31-6EEC673D246B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A4181AB7-CD89-470D-925D-D0E322D48A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4181AB7-CD89-470D-925D-D0E322D48A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4181AB7-CD89-470D-925D-D0E322D48A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518D2BEC-0B47-4FDC-BD31-6EEC673D246B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518D2BEC-0B47-4FDC-BD31-6EEC673D246B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518D2BEC-0B47-4FDC-BD31-6EEC673D246B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518D2BEC-0B47-4FDC-BD31-6EEC673D246B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

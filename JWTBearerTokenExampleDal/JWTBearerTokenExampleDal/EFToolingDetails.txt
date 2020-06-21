@@ -1,0 +1,9 @@
+﻿
+Be in Default AppManagerAPi Project
+
+PM> Add-Migration 001 -OutputDir "Data/Migrations" -Context ApplicationDBContext
+
+ than one DbContext was found. Specify which one to use. Use the '-Context' parameter for PowerShell commands and the '--context' parameter for dotnet commands.
+PM> Update-Database -Context ApplicationDBContext
+
+PM> add-migration Initialmigration -OutputDir "Data/Migrations" -Context AppManagerDBContext
